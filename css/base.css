@@ -1,0 +1,40 @@
+body {
+	margin: 0;
+	padding: 30px;
+	font-family: Arial, sans-serif;
+	font-size: small;
+	background: #b5b5b5;
+}
+table {
+	position: relative;
+	top: -4px;
+	left: -4px;
+	border: 1px solid #000000;
+	width: 100%;
+	background: #ffffff;
+	margin-top: 40px;
+}
+table td {
+	margin: 0;
+	padding: 8px 20px;
+	text-align: center;
+	border-bottom: 1px solid #b5b5b5;
+}
+table th {
+	margin: 0;
+	padding: 8px 20px;
+	text-align: center;
+	border-bottom: 1px solid #000000;
+}
+table tr {
+	background: #f1f1f1;
+}
+table tr.alt {
+	background: #e6e6e6;
+}
+th {
+	background: #e6e6e6;
+}
+.tab {
+	background: #919191;
+}
