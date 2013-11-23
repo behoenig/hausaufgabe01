@@ -5,6 +5,9 @@ body {
 	font-size: small;
 	background: #b5b5b5;
 }
+h1, h2, h3 {
+	text-align: left;
+}
 table {
 	position: relative;
 	top: -4px;
@@ -35,6 +38,17 @@ table tr.alt {
 th {
 	background: #e6e6e6;
 }
+.rechts {
+	
+}
+.links {
+	float: left;
+	margin: 0;
+	padding-right: 10px;
+	width: 120px;
+	height: 80px;
+}
 .tab {
+	clear: both;
 	background: #919191;
 }
