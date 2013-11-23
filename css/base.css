@@ -6,7 +6,7 @@ body {
 	background: #b5b5b5;
 }
 h1, h2, h3 {
-	text-align: left;
+	text-align: center;
 }
 table {
 	position: relative;
@@ -38,13 +38,15 @@ table tr.alt {
 th {
 	background: #e6e6e6;
 }
+
 .rechts {
-	
+	padding-top: 20px;
 }
 .links {
 	float: left;
 	margin: 0;
-	padding-right: 10px;
+	padding-top: 20px;
+	padding-left: 40%;
 	width: 120px;
 	height: 80px;
 }
